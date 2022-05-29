@@ -1,5 +1,4 @@
 # AINSYS
 AI nerve system
 
-system of io(memmory)
-dump and read..
+MrScorp personal nervel system define for robots and artifical life.
