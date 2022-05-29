@@ -106,20 +106,27 @@ class AINSYS:
         self.oi = OI
 #----------------------------------------------
 
-    @property
-    def handler(self):
+    @staticmethod
+    def recording():
         pass
     
+    @recording
+    @property
+    def handler(self,Format):
+        pass
+
+        
+    
     @handler.setter
-    def handler(self):
+    def handler(self.Format):
         pass
 
     @handler.getter
-    def handler(self):
+    def handler(self,Format):
         pass
 
     @handler.deleter
-    def handler(self):
+    def handler(self,Format):
         pass
 
 
