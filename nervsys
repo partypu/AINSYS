@@ -97,3 +97,48 @@ Governing Law
 This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of no. 
 
 """
+
+
+class AINSYS:
+#----------------------------------------------
+    def __init__(self,IO,OI):
+        self.io = IO
+        self.oi = OI
+#----------------------------------------------
+    @staticmethod
+    def CervicalNerves(self):
+        CervicalNervesFormat = [Sternocleidomastoid,Scalenes,Platysma,Levator_scapulae,Sternohyoid,trapezius,splenius_capitis,Omohyoid]
+
+        def __init__(CervicalNervesFormat):
+            self
+        
+        
+
+    @classmethod
+    def CervicalNerves_io(cls,CervicalNerves):
+        pass
+
+    @classmethod
+    def CervicalNerves_oi(cls,CervicalNerves):
+        pass
+#-----------------------------------------------
+
+    @staticmethod
+    def ThoracicNerves(self):
+        
+        pass
+
+
+    @staticmethod
+    def LumbarNerves(self):
+
+        pass
+
+    @staticmethod
+    def SacralNerves(self):
+        
+        pass
+        
+
+
+
