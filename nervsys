@@ -109,36 +109,47 @@ class AINSYS:
     def CervicalNerves(self):
         CervicalNervesFormat = [Sternocleidomastoid,Scalenes,Platysma,Levator_scapulae,Sternohyoid,trapezius,splenius_capitis,Omohyoid]
 
-        def __init__(CervicalNervesFormat):
-            self
-        
-        
+        @classmethod
+        def CervicalNerves_io(cls,):
+            pass
 
-    @classmethod
-    def CervicalNerves_io(cls,CervicalNerves):
-        pass
-
-    @classmethod
-    def CervicalNerves_oi(cls,CervicalNerves):
-        pass
+        @classmethod
+        def CervicalNerves_oi(cls,):
+            pass
 #-----------------------------------------------
 
     @staticmethod
     def ThoracicNerves(self):
         
-        pass
+        @classmethod
+        def ThoracicNerves_io(cls,):
+            pass
+
+        @classmethod
+        def ThoracicNerves_oi(cls,:
+            pass
+
 
 
     @staticmethod
     def LumbarNerves(self):
 
-        pass
+        @classmethod
+        def LumbarNerves_io(cls,):
+            pass
+
+        @classmethod
+        def LumbarNerves_oi(cls,):
+            pass
 
     @staticmethod
     def SacralNerves(self):
         
-        pass
+        @classmethod
+        def Sacral_io(cls,):
+            pass
+
+        @classmethod
+        def Sacral_oi(cls,):
+            pass
         
-
-
-
