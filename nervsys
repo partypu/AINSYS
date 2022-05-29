@@ -107,19 +107,19 @@ class AINSYS:
 #----------------------------------------------
 
     @property
-    def handler():
+    def handler(self):
         pass
-
+    
     @handler.setter
-    def handler():
+    def handler(self):
         pass
 
     @handler.getter
-    def handler():
+    def handler(self):
         pass
 
     @handler.deleter
-    def handler():
+    def handler(self):
         pass
 
 
@@ -169,6 +169,3 @@ class AINSYS:
         @classmethod
         def Sacral_oi(cls,):
             pass
-        
-
-
