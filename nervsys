@@ -105,9 +105,28 @@ class AINSYS:
         self.io = IO
         self.oi = OI
 #----------------------------------------------
-    @staticmethod
+
+    @property
+    def handler():
+        pass
+
+    @handler.setter
+    def handler():
+        pass
+
+    @handler.getter
+    def handler():
+        pass
+
+    @handler.deleter
+    def handler():
+        pass
+
+
+
+
+
     def CervicalNerves(self):
-        CervicalNervesFormat = [Sternocleidomastoid,Scalenes,Platysma,Levator_scapulae,Sternohyoid,trapezius,splenius_capitis,Omohyoid]
 
         @classmethod
         def CervicalNerves_io(cls,):
@@ -118,7 +137,7 @@ class AINSYS:
             pass
 #-----------------------------------------------
 
-    @staticmethod
+    
     def ThoracicNerves(self):
         
         @classmethod
@@ -126,12 +145,10 @@ class AINSYS:
             pass
 
         @classmethod
-        def ThoracicNerves_oi(cls,:
+        def ThoracicNerves_oi(cls,):
             pass
-
-
-
-    @staticmethod
+    
+    
     def LumbarNerves(self):
 
         @classmethod
@@ -142,7 +159,7 @@ class AINSYS:
         def LumbarNerves_oi(cls,):
             pass
 
-    @staticmethod
+    
     def SacralNerves(self):
         
         @classmethod
@@ -153,3 +170,5 @@ class AINSYS:
         def Sacral_oi(cls,):
             pass
         
+
+
