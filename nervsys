@@ -214,11 +214,25 @@ class AINSYS:
         
         @classmethod
         def ThoracicNerves_io(cls,):
-            pass
+        
+            def ExternalIntercostals():
+                    pass
+                
+                
+                def InternalIntercostals():
+                    pass
+       
+            
 
         @classmethod
         def ThoracicNerves_oi(cls,):
-            pass
+        
+            def ExternalIntercostals():
+                    pass
+                
+                
+                def InternalIntercostals():
+                    pass
     
     
     def LumbarNerves(self):
