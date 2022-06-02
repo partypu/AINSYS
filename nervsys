@@ -214,39 +214,39 @@ class AINSYS:
         
         @classmethod
         def ThoracicNerves_io(cls,):
-				    def ExternalIntercostals(led,time,volt):
+	    def ExternalIntercostals(led,time,volt):
                 pass
                
-             def InternalIntercostals(led,time,volt):
-                 pass
+            def InternalIntercostals(led,time,volt):
+                pass
                 
-             def pectoralis_minor(led,time,volt):
-                 pass
+            def pectoralis_minor(led,time,volt):
+                pass
                 
-             def serratus_anterior(led,time,volt):
-                 pass
+            def serratus_anterior(led,time,volt):
+                pass
                 
-              def Transversus Thoracis(led,time,volt):
-                  pass
+             def Transversus Thoracis(led,time,volt):
+                 pass
        
             
 
         @classmethod
         def ThoracicNerves_io(cls,):
-				    def ExternalIntercostals(led,time,volt):
+	    def ExternalIntercostals(led,time,volt):
                 pass
                
-             def InternalIntercostals(led,time,volt):
-                 pass
+            def InternalIntercostals(led,time,volt):
+                pass
                 
-             def pectoralis_minor(led,time,volt):
-                 pass
+            def pectoralis_minor(led,time,volt):
+                pass
                 
-             def serratus_anterior(led,time,volt):
-                 pass
+            def serratus_anterior(led,time,volt):
+                pass
                 
-              def Transversus Thoracis(led,time,volt):
-                  pass
+             def Transversus Thoracis(led,time,volt):
+                 pass
     
     
     def LumbarNerves(self):
