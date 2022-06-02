@@ -137,11 +137,76 @@ class AINSYS:
 
         @classmethod
         def CervicalNerves_io(cls,):
-            pass
+            
+            def Longus_colli(led,time,volt):
+                pass
+            
+            def Sternocleidomastoid(led,time,volt):
+                pass
+            
+            def Scalene_anterior(led,time,volt):
+                pass
+            
+            def Longus_capitis(led,time,volt):
+                pass
+            
+            def Rectus_capitis anterior(led,time,volt):
+                pass
+            
+            def Levator Scapulae(led,time,volt):
+                pass
+            
+            def Splenius cervicis(led,time,volt):
+                pass
+            
+            def Splenius capitis(led,time,volt):
+                pass
+            
+            def Trapezius(led,time,volt):
+                pass
+            
+            def Erector spinae(led,time,volt):
+                pass
+            
+            def Rectus capitis posterior(led,time,volt):
+                pass
+
 
         @classmethod
         def CervicalNerves_oi(cls,):
-            pass
+            
+            def Longus_colli(led,time,volt):
+                pass
+            
+            def Sternocleidomastoid(led,time,volt):
+                pass
+            
+            def Scalene_anterior(led,time,volt):
+                pass
+            
+            def Longus_capitis(led,time,volt):
+                pass
+            
+            def Rectus_capitis anterior(led,time,volt):
+                pass
+            
+            def Levator Scapulae(led,time,volt):
+                pass
+            
+            def Splenius cervicis(led,time,volt):
+                pass
+            
+            def Splenius capitis(led,time,volt):
+                pass
+            
+            def Trapezius(led,time,volt):
+                pass
+            
+            def Erector spinae(led,time,volt):
+                pass
+            
+            def Rectus capitis posterior(led,time,volt):
+                pass
 #-----------------------------------------------
 
     
