@@ -253,11 +253,73 @@ class AINSYS:
 
         @classmethod
         def LumbarNerves_io(cls,):
-            pass
+            
+            @staticmethod
+            def PsoasMajor():
+                pass
+            
+            @staticmethod
+            def IntertransversariiLateralis():
+                pass
+            
+            @staticmethod
+            def QuadratusLumborum():
+                pass
+            
+            @staticmethod
+            def Interspinales():
+                pass
+            
+            @staticmethod
+            def IntertransversariiMediales():
+                pass
+            
+            @staticmethod
+            def Multifidus():
+                pass
+            
+            @staticmethod
+            def LongissimusLumborum():
+                pass
+            
+            @staticmethod
+            def IliocostalisLumborum():
+                pass
 
         @classmethod
         def LumbarNerves_oi(cls,):
-            pass
+            
+            @staticmethod
+            def PsoasMajor():
+                pass
+            
+            @staticmethod
+            def IntertransversariiLateralis():
+                pass
+            
+            @staticmethod
+            def QuadratusLumborum():
+                pass
+            
+            @staticmethod
+            def Interspinales():
+                pass
+            
+            @staticmethod
+            def IntertransversariiMediales():
+                pass
+            
+            @staticmethod
+            def Multifidus():
+                pass
+            
+            @staticmethod
+            def LongissimusLumborum():
+                pass
+            
+            @staticmethod
+            def IliocostalisLumborum():
+                pass
 
     
     def SacralNerves(self):
